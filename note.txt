@@ -1,0 +1,2 @@
+Hosting platforms avaialble.
+Github, netlify, vercel, heroku, 
